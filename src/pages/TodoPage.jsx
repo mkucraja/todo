@@ -8,6 +8,8 @@ function TodoPage() {
       <h1 className="text-2xl font-bold mb-4">Todo App</h1>
       <TodoInput />
       <TodoList />
+      <TodoInput />
+      <TodoList />
     </div>
   );
 }
